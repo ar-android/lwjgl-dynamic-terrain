@@ -1,0 +1,14 @@
+# Blender v2.79 (sub 0) OBJ File: 'tree1.blend'
+# www.blender.org
+mtllib empty.mtl
+o Plane.016_Plane.058
+v 1.568635 -6.000441 0.286200
+v 1.568524 -6.000441 0.286200
+v 1.568635 -6.000441 0.286311
+vt 0.451053 0.450570
+vt 0.548946 0.450570
+vt 0.451053 0.548358
+vn 0.0000 1.0000 0.0000
+usemtl None
+s off
+f 1/1/1 2/2/1 3/3/1

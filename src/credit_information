@@ -1,0 +1,29 @@
+Computer Graphics Class at the Baylor University https://www.baylor.edu/
+
+Final project
+
+Author: antonin smid
+
+The base for this project was written using tutorial series by ThinMatrix.
+The water material is created based on ThinMatrix's tutorial.
+https://www.patreon.com/thinmatrix
+
+This project uses libraries:
+
+Lightweight Java Game Library https://www.lwjgl.org/
+https://sourceforge.net/projects/java-game-lib/files/Official%20Releases/LWJGL%202.9.1/lwjgl-2.9.1.zip/download
+
+Slick https://github.com/ariejan/slick2d/tree/master/src/org/newdawn/slick
+Fast Noise library https://github.com/Auburns/FastNoise_Java
+OpenGL v3.2
+
+Code inspiration taken from:
+http://ninjacave.com/lwjglbasics4
+https://stackoverflow.com/questions/16067791/lwjgl-holding-a-key-pressed
+http://www.java-gaming.org/topics/rotating-a-vector3f-by-a-vector3f-in-lwjgl/26645/view.html
+http://wiki.lwjgl.org/wiki/The_Quad_updating_a_VBO_with_BufferSubData.html
+https://stackoverflow.com/questions/33353058/how-does-one-correctly-apply-filters-to-an-image-array
+http://wiki.lwjgl.org/wiki/LWJGL_Basics_4_(Timing).html
+
+skybox:
+http://mi.eng.cam.ac.uk/~agk34/resources/textures/sky/
